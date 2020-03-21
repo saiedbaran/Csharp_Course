@@ -1,0 +1,16 @@
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Interfaces.UnitTest.dll
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Interfaces.UnitTest.pdb
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Interfaces.exe
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Interfaces.pdb
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Interfaces.exe.config
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\obj\Debug\Interfaces.UnitTest.csprojAssemblyReference.cache
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\obj\Debug\Interfaces.UnitTest.csproj.CopyComplete
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\obj\Debug\Interfaces.UnitTest.dll
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces.UnitTest\obj\Debug\Interfaces.UnitTest.pdb

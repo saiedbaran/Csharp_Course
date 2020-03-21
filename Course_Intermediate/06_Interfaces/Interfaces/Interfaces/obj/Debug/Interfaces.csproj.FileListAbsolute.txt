@@ -1,0 +1,6 @@
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\06_Interfaces\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
