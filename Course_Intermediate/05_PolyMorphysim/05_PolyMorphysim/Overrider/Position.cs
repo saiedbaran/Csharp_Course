@@ -1,4 +1,4 @@
-﻿namespace _05_PolyMorphysim
+﻿namespace _05_PolyMorphysim.Overrider
 {
     public class Position
     {

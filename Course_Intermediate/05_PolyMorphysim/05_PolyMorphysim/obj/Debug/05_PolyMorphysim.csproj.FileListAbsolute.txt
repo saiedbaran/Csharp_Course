@@ -1,0 +1,6 @@
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\05_PolyMorphysim\05_PolyMorphysim\bin\Debug\05_PolyMorphysim.exe.config
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\05_PolyMorphysim\05_PolyMorphysim\bin\Debug\05_PolyMorphysim.exe
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\05_PolyMorphysim\05_PolyMorphysim\bin\Debug\05_PolyMorphysim.pdb
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\05_PolyMorphysim\05_PolyMorphysim\obj\Debug\05_PolyMorphysim.csprojAssemblyReference.cache
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\05_PolyMorphysim\05_PolyMorphysim\obj\Debug\05_PolyMorphysim.exe
+C:\Users\saied\Documents\Programming\Csharp_Learning\Csharp_Course\Course_Intermediate\05_PolyMorphysim\05_PolyMorphysim\obj\Debug\05_PolyMorphysim.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15D9C81C-5B94-492A-BF18-12D3A27AADC8}</ProjectGuid>
+    <ProjectGuid>{5144155C-6137-48BC-8C61-C2D587E6DBEB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_05_PolyMorphysim</RootNamespace>
-    <AssemblyName>05_PolyMorphysim</AssemblyName>
+    <RootNamespace>Interfaces</RootNamespace>
+    <AssemblyName>Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Overrider\Canvas.cs" />
-    <Compile Include="Overrider\Circle.cs" />
-    <Compile Include="Overrider\Rectangle.cs" />
-    <Compile Include="Overrider\Position.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Overrider\Shape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="AbstractClass\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
